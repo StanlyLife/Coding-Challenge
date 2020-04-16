@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(
+    120deg,
+    rgba(255, 177, 66, 1),
+    rgba(253, 203, 110, 1)
+  );
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  max-width: 75vw;
+  margin: 10vh auto 5vh;
+}
+
+.element {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  background-color: rgb(225, 131, 76);
+  padding: 3rem;
+  font-size: 1.25rem;
+}

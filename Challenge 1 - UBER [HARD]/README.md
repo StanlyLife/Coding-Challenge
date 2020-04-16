@@ -1,5 +1,9 @@
 # Problem X
 
+## Difficulty:
+
+#### HARD
+
 ---
 
 ## About
@@ -16,6 +20,12 @@
 
 ## Solution
 
-- this problem was solved by ...
+![solution](http://imageshack.com/a/img923/7164/NIqjwv.png)
+
+- this problem was solved by using nested loops
 
 #### Conclusion
+
+- using nested loops is bad practice in general because it gives a big O notation of O(N \* M)
+- in this case the O notation would be O(N^2) because we're iterating over the same array
+- at the time i am not sure how to avoid the big o notation.
