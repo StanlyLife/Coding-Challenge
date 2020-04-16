@@ -1,4 +1,4 @@
-# Problem X
+# Problem 1
 
 ## Difficulty:
 
