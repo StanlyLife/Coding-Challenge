@@ -1,0 +1,42 @@
+body {
+  background: linear-gradient(
+    120deg,
+    rgba(255, 177, 66, 1),
+    rgba(253, 203, 110, 1)
+  );
+}
+
+.question {
+  background-color: rgba(51, 51, 51, 0.164);
+  width: 75vw;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.question p {
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.division {
+  width: 75vw;
+  margin: 5vh auto;
+  min-height: 25vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.answer {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #fff;
+  background-color: tomato;
+}
