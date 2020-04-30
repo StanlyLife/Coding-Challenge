@@ -2,7 +2,7 @@
 
 ## Difficulty:
 
-#### MEDIUM
+#### HARD
 
 ---
 
